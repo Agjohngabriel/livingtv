@@ -11,7 +11,7 @@ curl_setopt_array($curl, array(
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_HTTPHEADER => [
     "accept: application/json",
-    "authorization: sk_test_d8dacfe1cb43de58b7954ddd447b86eae4dd0b4c",
+    "authorization: sk_test_d8dacfe1cb43de58b7954ddd447b86eae4dd0b4c  ",
     "cache-control: no-cache"
   ],
 ));
