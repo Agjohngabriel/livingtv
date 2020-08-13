@@ -116,10 +116,10 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                                <h3 class="typewrite" data-period="2000" data-type='[ "Hi, Im VipulM.", "Get The Best knowledge From Us.", "I Love Design.", "I Love to Develop." ]'>
+                                <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy", ""]'>
                                 <span class="wrap"></span>  
                                 </h3>
-                                <a href="#" class="btn academy-btn">Enroll Now</a>
+                                <a href="admission.php" class="btn academy-btn" >Enroll Now</a>
                             </div>
                         </div>
                     </div>

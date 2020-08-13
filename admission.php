@@ -22,7 +22,7 @@
                                 <div class="row">
                                     <div class="col-md-6 col-sm-6">
                                         <div class="text">
-                                            <p>Living TV FILM ACADEMY  two year Ondinary National Diploma (OND) in Information Technology and  Digital Media is for highly motivated students who would like to enter an intensive, hands-on practice course study. By completing the OND  our stusents are issued a certificate from a foremost  Nigerian afflicted  institution Eastern Polytechnic.</p>
+                                            <p>LIVING TV FILM ACADEMY ABA COMMENCES ADMISSIONS FOR THE AWARD OF CERTIFICATE, DIPLOMA, DEGREE FOR 2020/2021 ACADEMIC SESSION.</p>
                                             <ul class="categries-list">
                                                 <li><a href="#">Software development </a></li>
                                                 <li><a href="#">Website and Mobile App design</a></li>
@@ -54,7 +54,6 @@
 
                                         <!-- Payment Form  -->
                                         <div class="container d-flex justify-content-center">
-                                            <button class="btn academy-btn" id="modal" data-toggle="modal" data-target="#my-modal">Register Now</button>
                                             <div id="my-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
                                                 <div class="modal-dialog modal-dialog-centered justify-content-center " role="document">
                                                     <div class="modal-content border-0 mx-3">
@@ -65,56 +64,51 @@
                                                                         <div class="card-header p-3">
                                                                             <div class="row align-items-center">
                                                                                 <div class="col-auto">
-                                                                                    <h6 class="mb-0"><b>Payment</b></h6>
+                                                                                    <h6 class="mb-0">Purchase Admission Form</h6>
                                                                                 </div>
                                                                                 <div class="col text-right"><button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span class="cross" aria-hidden="true">&times;</span> </button></div>
                                                                             </div>
                                                                         </div>
                                                                         <div class="card-body">
-                                                                            <h6 class="card-title text-center"><b>Living TV Film Academy</b></h6>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required> <label class="ml-3 form-control-placeholder" for="email">First Name</label> </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required> <label class="ml-3 form-control-placeholder" for="email">Last Name</label> </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required> <label class="ml-3 form-control-placeholder" for="email">Email</label> </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required> <label class="ml-3 form-control-placeholder" for="email">Phone</label> </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <select id="form_need" name="need" class="form-control pl-3 " required="required" data-error="Please specify your need.">
-                                                                                        <option class="ml-3 form-control-placeholder" value="" selected disabled>--Select Program Type--</option>
-                                                                                        <option>Request Invoice for order</option>
-                                                                                        <option>Request order status</option>
-                                                                                        <option>Haven't received cashback yet</option>
-                                                                                        <option>Other</option>
+                                                                            <form action="#" role="form" onsubmit="return validate(0)">
+                                                                                <h6 class="card-title text-center"><b>Living TV Film Academy</b></h6>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(1)"> <label class="ml-3 form-control-placeholder" for="email">First Name<span class="text-danger"> *</span></label> </div>
                                                                                     </div>
-                                                                            </div>
-                                                                            <div class="row my-3">
-                                                                                <div class="col">
-                                                                                    <div class="form-group mt-1 mb-1"> <select id="form_need" name="need" class="form-control pl-3 " required="required" data-error="Please specify your need.">
-                                                                                        <option class="ml-3 form-control-placeholder" value="" selected disabled>--Program--</option>
-                                                                                        <option>Request Invoice for order</option>
-                                                                                        <option>Request order status</option>
-                                                                                        <option>Haven't received cashback yet</option>
-                                                                                        <option>Other</option>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(2)"> <label class="ml-3 form-control-placeholder" for="email">Last Name<span class="text-danger"> *</span></label> </div>
                                                                                     </div>
-                                                                            </div>
-                                                                            <div class="row mt-4 mb-3">
-                                                                                <div class="col"><button type="button" id="Submit" class="btn btn-primary btn-block" data-dismiss="modal"><b>Submit</b></button></div>
-                                                                            </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(3)"> <label class="ml-3 form-control-placeholder" for="email">Email<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(4)"> <label class="ml-3 form-control-placeholder" for="email">Phone<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                    <div class="form-group form-group mt-1 mb-1"> <label for="form_need">Please specify your program *</label> <select id="form_need" name="need" class="form-control" required="required" data-error="Please specify your need." onblur="validate(5)">
+                                                                                    <option value="" selected disabled>--Select Program Type--</option>
+                                                                                    <option>Diploma</option>
+                                                                                    <option>Degree</option>
+                                                                                    <option>Certificate</option>
+                                                                                
+                                                                                    </select>
+                                                                                </div>
+                                                                            
+                                                                                <div class="row mt-4 mb-3">
+                                                                                    <div class="col">
+                                                                                        <button type="submit" id="Submit" class="btn btn-primary btn-block" data-dismiss="modal"><b>Apply Now</b></button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </form>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -135,7 +129,7 @@
                         <div class="col-12">
                             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
                                 <h3>Get The Best knowledge From Us</h3>
-                                <a href="#" class="btn academy-btn">Enroll Now</a>
+                                <a href="#" data-toggle="modal" data-target="#my-modal" class="btn academy-btn">Enroll Now</a>
                             </div>
                         </div>
                     </div>
