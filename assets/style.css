@@ -465,14 +465,16 @@ img {
       .hero-slides .single-hero-slide {
         height: 600px; } }
     .hero-slides .single-hero-slide h4 {
-      color: #ffffff;
+      color: #5d775d;
+      padding-left: 20px;
       margin-bottom: 10px; }
       @media only screen and (max-width: 767px) {
         .hero-slides .single-hero-slide h4 {
           font-size: 18px; } }
     .hero-slides .single-hero-slide h2 {
       font-size: 60px;
-      color: #ffffff;
+      color:#40bf40;
+      padding-left: 20px;
       margin-bottom: 30px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .hero-slides .single-hero-slide h2 {
@@ -887,7 +889,7 @@ img {
   width: 100%;
   height: 200px; }
   .breadcumb-area .bradcumbContent {
-    width: 500px;
+    width: 700px;
     height: 110px;
     background: #61ba6d;
     background: -webkit-linear-gradient(to right, #61ba6d, #83c331);
@@ -900,7 +902,8 @@ img {
     z-index: 30; }
     @media only screen and (max-width: 767px) {
       .breadcumb-area .bradcumbContent {
-        width: 280px; } }
+        width: 280px;
+        height: 100px; } }
     .breadcumb-area .bradcumbContent h2 {
       text-align: center;
       line-height: 110px;
@@ -908,7 +911,7 @@ img {
       color: #ffffff; }
       @media only screen and (max-width: 767px) {
         .breadcumb-area .bradcumbContent h2 {
-          font-size: 24px; } }
+          font-size: 16px; } }
 
 /* About Us Content Area CSS */
 .about-slides {
@@ -1238,3 +1241,278 @@ img {
     font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
+.about-us-section .text p{
+	float: left;
+	width: 100%;
+  margin:0 0 21px;
+  word-break: keep-all;
+}
+.about-us-section .thumb:before{
+	position: absolute;
+	content: "";
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+
+.about-us-section .thumb {
+  margin: 20px 0 30px;
+}
+.thumb {
+  float: left;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  margin: 15 0 30px;
+}
+.about-us-section .thumb::after {
+  position: absolute;
+  content: "";
+  top: 10px;
+  left: 10px;
+  padding: 0px;
+  right: 10px;
+  bottom: 10px;
+  border: 3px solid #fff;
+}
+
+.card {
+  border-radius: 20px;
+  background: #eeeeee;
+  box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff;
+  border: none
+}
+
+.card img {
+  border-radius: 50%;
+  background: linear-gradient(145deg, #d6d6d6, #ffffff);
+  box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff
+}
+
+.neo-button {
+  width: 40px;
+  height: 40px;
+  outline: 0 !important;
+  cursor: pointer;
+  color: #fff;
+  font-size: 15px;
+  border: none;
+  margin-right: 10px;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #d6d6d6, #ffffff);
+  box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff
+}
+
+.neo-button:active {
+  border-radius: 50%;
+  background: linear-gradient(145deg, #d6d6d6, #ffffff);
+  box-shadow: inset 20px 20px 60px #cacaca, inset -20px -20px 60px #ffffff
+}
+
+.fa-facebook {
+  color: #3b5998
+}
+
+.fa-linkedin {
+  color: #0077b5
+}
+
+.fa-google {
+  color: #dc4e41
+}
+
+.fa-youtube {
+  color: #cd201f
+}
+
+.fa-twitter {
+  color: #55acee
+}
+
+/* 
+===================
+  certificates
+===================
+ */
+ .how-section1{
+  margin-top:-5%;
+  padding: 10%;
+}
+.how-section1 h4{
+  color: #83c331;
+  font-weight: bold;
+  font-size: 35px;
+  padding-top: 10px;
+}
+.how-section1 .subheading{
+  color: #3931af;
+  font-size: 18px;
+}
+.how-section1 .row
+{
+  margin-top: 10%;
+}
+.how-img 
+{
+  text-align: center;
+  border-radius: 75px 35px;
+}
+.how-img img{
+  width: 80%;
+  margin-top: 30px;
+}
+/* ========================
+  Payment form
+==========================
+*/
+
+h6 {
+  font-size: calc(18px + (17 - 14) * ((100vw - 360px) / (1600 - 320))) !important;
+}
+
+.modal-content {
+  border-radius: 0;
+  width: calc(360px + 10 * ((100vw - 320px) / 680));
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.8)
+}
+
+.modal {
+  background-image: radial-gradient(circle 919px at 1.7% 6.1%, rgb(198, 198, 207) 0%, rgb(133, 208, 240) 100.2%)
+}
+
+.modal-content {
+  background: transparent !important
+}
+
+select,label {
+  font-size: calc(11px + (13 - 11) * ((100vw - 360px) / (1600 - 320))) !important;
+  ;
+  vertical-align: middle !important
+}
+select,
+#my-input {
+  vertical-align: middle !important
+}
+
+.signin {
+  color: #52B4DB;
+  cursor: pointer
+}
+
+.custom-control-label span {
+  position: relative;
+  top: 4px
+}
+
+#Submit {
+  font-size: calc(12px + (14 - 12) * ((100vw - 360px) / (1600 - 320))) !important;
+  ;
+  padding: calc(10px + (14 - 10) * ((100vw - 360px) / (1600 - 320))) !important;
+  ;
+  background-color: #04A79C !important;
+  border: 0px !important
+}
+
+button:focus {
+  -moz-box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  outline-width: 0
+}
+
+.form-group {
+  margin-bottom: 1.5rem
+}
+
+#email {
+  padding: 23px 7px 18px 7px;
+  font-size: 15px !important
+}
+
+.form-control-placeholder {
+  position: absolute;
+  top: 17px;
+  transition: all 300ms;
+  opacity: 0.5;
+  overflow: hidden
+}
+
+.form-control:focus+.form-control-placeholder,
+.form-control:valid+.form-control-placeholder {
+  position: absolute;
+  top: 9px !important;
+  opacity: 1;
+  background-color: #fff;
+  color: #04A79C !important;
+  font-size: 8px !important
+}
+
+.form-control:focus {
+  border: 1px solid #04A79C !important;
+  box-shadow: 2px 2px rgba(233, 226, 226, 0.8) !important
+}
+
+#modal {
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8) !important;
+  border-radius: 0 !important;
+  border: 0
+}
+@media (max-width:700px) {
+  ul.social-icons {
+      display: block
+  }
+}
+
+
+
+
+/*
+=================================================
+			FROM 0PX TO 979PX    0300 7785536
+=================================================
+*/ 
+@media (max-width: 991px) {
+
+	.about-us-section .iq_heading_1 h4{
+		font-size: 26px;
+	}
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+  .about-us-section .text{
+		text-align: center;
+	}
+	.about-us-section .text{
+		margin: 0 0 30px;
+	}
+	.about-us-section .iq_heading_1.text-left h4::before{
+		right: 0;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 360px) and (max-width: 640px) {
+	
+  
+}

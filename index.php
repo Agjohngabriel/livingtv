@@ -3,17 +3,37 @@
     include 'inc/navbar.php';    
 ?>
 
+    </div>
     <!-- ##### Hero Area Start ##### -->
     <section class="hero-area">
         <div class="hero-slides owl-carousel">
 
             <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img" style="background-image: url(assets/img/bg-img/bg-1.jpg);">
+            <div class="single-hero-slide bg-img" style="background-image: url(assets/img/bg-img/banner2.png);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 data-animation="fadeInUp" data-delay="100ms">All the courses you need</h4>
+                                <h4 data-animation="fadeInUp" data-delay="100ms">Welcome to Living TV Film Academy</h4>
+                                <h2 data-animation="fadeInUp" data-delay="400ms">
+                                    Boost up your skills <br>
+                                    With the Most Hands-on <br>
+                                   Intensive Programs!
+                                </h2>
+                                <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Hero Slide -->
+            <div class="single-hero-slide bg-img" style="background-image: url(assets/img/bg-img/banner.png);">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center">
+                        <div class="col-12">
+                            <div class="hero-slides-content">
+                                <h4 data-animation="fadeInUp" data-delay="100ms">Gain unsurpassed experience </h4>
                                 <h2 data-animation="fadeInUp" data-delay="400ms">Welcome to <br>Living TV Film Academy</h2>
                                 <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Read More</a>
                             </div>
@@ -23,13 +43,13 @@
             </div>
 
             <!-- Single Hero Slide -->
-            <div class="single-hero-slide bg-img" style="background-image: url(assets/img/bg-img/bg-2.jpg);">
+            <div class="single-hero-slide bg-img" style="background-image: url(assets/img/bg-img/banner3.png);">
                 <div class="container h-100">
                     <div class="row h-100 align-items-center">
                         <div class="col-12">
                             <div class="hero-slides-content">
-                                <h4 data-animation="fadeInUp" data-delay="100ms">All the courses you need</h4>
-                                <h2 data-animation="fadeInUp" data-delay="400ms">Welcome to <br>Living TV Film Academy</h2>
+                                <h4 data-animation="fadeInUp" data-delay="100ms">Living TV Film Academy</h4>
+                                <h2 data-animation="fadeInUp" data-delay="400ms">Be ready for the most <br> Challenging and rewarding <br>Experience of your life..</h2>
                                 <a href="#" class="btn academy-btn" data-animation="fadeInUp" data-delay="700ms">Read More</a>
                             </div>
                         </div>
@@ -51,28 +71,28 @@
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-agenda-1"></i>
-                                    <h5>Undergraduate Programs</h5>
+                                    <h5>Degree Programs</h5>
                                 </div>
                             </div>
                             <!-- Single Top Features -->
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-assistance"></i>
-                                    <h5>Graduates Programs</h5>
+                                    <h5>Diploma Programs</h5>
                                 </div>
                             </div>
                             <!-- Single Top Features -->
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-agenda-1"></i>
-                                    <h5>Short-Term Workshop</h5>
+                                    <h5>Certificate</h5>
                                 </div>
                             </div>
                             <!-- Single Top Features -->
                             <div class="col-12 col-md-3">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-agenda-1"></i>
-                                    <h5>Summer Camps</h5>
+                                    <h5>Workshops</h5>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +138,7 @@
                             <i class="icon-map"></i>
                         </div>
                         <div class="course-content">
-                            <h4>Multimedia & Film Studies</h4>
+                            <h4>Film Making</h4>
                             <!-- <p>Cras vitae turpis lacinia, lacinia la cus non, fermentum nisi.</p> -->
                         </div>
                     </div>
@@ -154,7 +174,7 @@
                             <i class="icon-message"></i>
                         </div>
                         <div class="course-content">
-                            <h4>Journalism</h4>
+                            <h4>Digital Editing</h4>
                             <!-- <p>Cras vitae turpis lacinia, lacinia la cus non, fermentum nisi.</p> -->
                         </div>
                     </div>
@@ -327,9 +347,7 @@
                 <div class="col-12">
                     <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
                         <h3>Do you want to enroll at our Academy?</h3>
-                        <form action="initialize.php">
-                        <button><a href="initialize.php" class="btn academy-btn" >Apply Now</a></button>
-                        </form>
+                        <a href="#" class="btn academy-btn">Apply Now</a>
                     </div>
                 </div>
             </div>

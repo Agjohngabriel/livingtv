@@ -16,6 +16,7 @@
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/css/shortcodes.css">
 
 </head>
 

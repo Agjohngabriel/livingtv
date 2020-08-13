@@ -99,6 +99,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="assets/js/plugins/plugins.js"></script>
     <!-- Active js -->
     <script src="assets/js/active.js"></script>
+    <!-- Text Animation js -->
+    <script src="assets/js/text.js"></script>
+    <!-- Text Animation js -->
+    <script src="assets/js/form.js"></script>
 </body>
 
 </html>
