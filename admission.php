@@ -16,6 +16,7 @@
         <!--Iqoniq Content Start-->
 
 	<div class="iq_content_wrap">
+<<<<<<< HEAD
     <!--About Us START-->  
     <section class="about-us-section">
         <div class="container">
@@ -41,6 +42,33 @@
                 <div class="col-md-12 col-sm-12">
                     <div class="text">
                         <p> Two-Year Ondinary National Diploma Information Technology and Digital Media Degree Program in computer programming employs a total immersion approach to the subject, where students develop a powerful arsenal of skills in web and mobile app software development, website and mobile app design, Graphic and UI}UX design, Cartoon and Animation design, Digital Social media marketing and Management. Students learn and work with all different programming framework starting from WORDPRESS, HTML CSS, JAVASCRIPT, PHP, LARAVAL, PYTHON etc. program with  hands-on practical instruction and actual real life project based learning. <br>
+=======
+                        <!--About Us START-->  
+                        <section class="about-us-section">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-6">
+                                        <div class="text">
+                                            <p>LIVING TV FILM ACADEMY ABA COMMENCES ADMISSIONS FOR THE AWARD OF CERTIFICATE, DIPLOMA, DEGREE FOR 2020/2021 ACADEMIC SESSION.</p>
+                                            <ul class="categries-list">
+                                                <li><a href="#">Software development </a></li>
+                                                <li><a href="#">Website and Mobile App design</a></li>
+                                                <li><a href="#">Graphic and UI]UX Design</a></li>
+                                                <li><a href="#">Cartoon and Animation Design</a></li>
+                                                <li><a href="#">Digital Media Marketing and Management</a></li>
+                                                <li><a href="#">Social Media Marketing and Management</a></li>
+                                            </ul>
+                                        </div>    
+                                    </div>
+                                    <div class="col-md-6 col-sm-6">
+                                        <div class="thumb">
+                                            <img src="assets/img/log.png" alt="about_us">
+                                        </div> 
+                                    </div>
+                                    <div class="col-md-12 col-sm-12">
+                                        <div class="text">
+                                            <p> Two-Year Ondinary National Diploma Information Technology and Digital Media Degree Program in computer programming employs a total immersion approach to the subject, where students develop a powerful arsenal of skills in web and mobile app software development, website and mobile app design, Graphic and UI}UX design, Cartoon and Animation design, Digital Social media marketing and Management. Students learn and work with all different programming framework starting from WORDPRESS, HTML CSS, JAVASCRIPT, PHP, LARAVAL, PYTHON etc. program with  hands-on practical instruction and actual real life project based learning. <br>
+>>>>>>> origin/shieldcode
 
                             The Two-Year Ondinary National Diploma program requires students to commit themselves to a focused and demanding curriculum on class and practical real project based problem solving.
                             Students will complete the Two-Year program having build projects that solves problem using technoology in the different sector like Health,Education,Manufacturing, Finance ENTERTAINMENT  etc. The Living TV Film Academy encourages individual students to take creative risks and find their own voices as technology problem solvers. OND  students receive a certificate upon successful completion as well as a full arsenal of technology problem solving skills, an enormous amount of real life experience, a body of their own work, and a technology solution project. The network of working relationships they develop with their classmates will help carry them forward as they pursue their own careers in technology and media or  industry.
@@ -52,6 +80,7 @@
     </section>
     <!--End-->
 
+<<<<<<< HEAD
         <!-- Payment Form  -->
         <div class="container d-flex justify-content-center">
             <button class="btn academy-btn" id="modal" data-toggle="modal" data-target="#my-modal">Register Now</button>
@@ -80,6 +109,71 @@
                                             <div class="row my-3">
                                                 <div class="col">
                                                     <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required> <label class="ml-3 form-control-placeholder" for="email">Last Name</label> </div>
+=======
+                                        <!-- Payment Form  -->
+                                        <div class="container d-flex justify-content-center">
+                                            <div id="my-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                                                <div class="modal-dialog modal-dialog-centered justify-content-center " role="document">
+                                                    <div class="modal-content border-0 mx-3">
+                                                        <div class="modal-body p-0">
+                                                            <div class="row justify-content-center">
+                                                                <div class="col">
+                                                                    <div class="card border-0">
+                                                                        <div class="card-header p-3">
+                                                                            <div class="row align-items-center">
+                                                                                <div class="col-auto">
+                                                                                    <h6 class="mb-0">Purchase Admission Form</h6>
+                                                                                </div>
+                                                                                <div class="col text-right"><button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span class="cross" aria-hidden="true">&times;</span> </button></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="card-body">
+                                                                            <form action="#" role="form" onsubmit="return validate(0)">
+                                                                                <h6 class="card-title text-center"><b>Living TV Film Academy</b></h6>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(1)"> <label class="ml-3 form-control-placeholder" for="email">First Name<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(2)"> <label class="ml-3 form-control-placeholder" for="email">Last Name<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(3)"> <label class="ml-3 form-control-placeholder" for="email">Email<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                        <div class="form-group mt-1 mb-1"> <input type="text" id="email" class="form-control pl-3 " required onblur="validate(4)"> <label class="ml-3 form-control-placeholder" for="email">Phone<span class="text-danger"> *</span></label> </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="row my-3">
+                                                                                    <div class="col">
+                                                                                    <div class="form-group form-group mt-1 mb-1"> <label for="form_need">Please specify your program *</label> <select id="form_need" name="need" class="form-control" required="required" data-error="Please specify your need." onblur="validate(5)">
+                                                                                    <option value="" selected disabled>--Select Program Type--</option>
+                                                                                    <option>Diploma</option>
+                                                                                    <option>Degree</option>
+                                                                                    <option>Certificate</option>
+                                                                                
+                                                                                    </select>
+                                                                                </div>
+                                                                            
+                                                                                <div class="row mt-4 mb-3">
+                                                                                    <div class="col">
+                                                                                        <button type="submit" id="Submit" class="btn btn-primary btn-block" data-dismiss="modal"><b>Apply Now</b></button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </form>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+>>>>>>> origin/shieldcode
                                                 </div>
                                             </div>
                                             <div class="row my-3">
@@ -135,7 +229,7 @@
                         <div class="col-12">
                             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
                                 <h3>Get The Best knowledge From Us</h3>
-                                <a href="#" class="btn academy-btn">Enroll Now</a>
+                                <a href="#" data-toggle="modal" data-target="#my-modal" class="btn academy-btn">Enroll Now</a>
                             </div>
                         </div>
                     </div>
