@@ -327,7 +327,9 @@
                 <div class="col-12">
                     <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
                         <h3>Do you want to enroll at our Academy?</h3>
-                        <a href="#" class="btn academy-btn">Apply Now</a>
+                        <form action="initialize.php">
+                        <button><a href="initialize.php" class="btn academy-btn" >Apply Now</a></button>
+                        </form>
                     </div>
                 </div>
             </div>
