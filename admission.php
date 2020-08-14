@@ -3,7 +3,7 @@
     include 'inc/navbar.php';    
 ?>
       <!-- ##### Breadcumb Area Start ##### -->
-	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb1.png);">
+	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb2.jpg);">
         <div class="bradcumbContent">
             <h2>ADMISSION</h2>
         </div>
