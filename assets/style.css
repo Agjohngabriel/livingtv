@@ -30,9 +30,10 @@ h6 {
 
 p {
   color: #606060;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 2;
-  font-weight: 500; }
+  font-weight: 500; 
+}
 
 a,
 a:hover,
@@ -1275,6 +1276,13 @@ img {
   margin: 0 0 35px;
 }
 
+#list{
+  list-style-type: square;
+  color: #606060;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 500;
+}
 a:hover, a:active {
   color: #000;
   text-decoration: none;
@@ -1309,7 +1317,7 @@ a:hover, a:active {
 
 .feature .feature-box .feature-content h4 {
   color: #0f0f0f;
-  font-size: 18px;
+  font-size: 25px;
   letter-spacing: 0;
   line-height: 22px;
   margin: 0 0 5px;
@@ -1319,7 +1327,7 @@ a:hover, a:active {
 .feature .feature-box .feature-content {
   float: left;
   padding-left: 28px;
-  width: 78%;
+  width: 80%;
 }
 .feature .feature-box .feature-content h4 {
   color: #0f0f0f;
@@ -1330,7 +1338,7 @@ a:hover, a:active {
 }
 .feature .feature-box .feature-content p {
   color: #606060;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 22px;
 }
 .icon {
@@ -1429,18 +1437,15 @@ a:hover, a:active {
   color: #0077b5
 }
 
-.fa-google {
-  color: #dc4e41
-}
-
-.fa-youtube {
-  color: #cd201f
-}
-
 .fa-twitter {
   color: #55acee
 }
-
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  .cardx {
+    max-width: 50%;
+    flex: 0 auto;  
+  }
+}
 /* 
 ===================
   certificates

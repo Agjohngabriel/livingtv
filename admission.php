@@ -3,7 +3,7 @@
     include 'inc/navbar.php';    
 ?>
       <!-- ##### Breadcumb Area Start ##### -->
-	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb.jpg);">
+	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb1.png);">
         <div class="bradcumbContent">
             <h2>ADMISSION</h2>
         </div>
@@ -20,35 +20,81 @@
                         <section class="about-us-section">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6 col-sm-6">
-                                        <div class="text">
+                                    <div class="col-md-12 col-sm-6">
+                                        <div class="text-center">
                                             <p>LIVING TV FILM ACADEMY ABA COMMENCES ADMISSIONS FOR THE AWARD OF CERTIFICATE, DIPLOMA, DEGREE FOR 2020/2021 ACADEMIC SESSION.</p>
-                                            <p><strong >Admission Requirements</strong></p>
-                                            <ul class="categries-list">
-                                                <li><a href="#">Education: SSCE and above</a></li>
-                                                <li><a href="#">Computer Literacy: Intended applicants must have basic knowledge of Windows or Mac Operating Systems.</a></li>
-                                                <li><a href="#">Personal Laptop Computer: Students are advised to have their personal laptop/desktop computer</a></li>
-                                                <li><a href="#">Completion & submission of a registration and guarantor form (offline/Online)</a></li>
-                                                <li><a href="#">Payment of a registration fee of ₦100,000.</a></li>
-                                                <li><a href="#">Social Media Marketing and Management</a></li>
-                                            </ul>
                                         </div>    
                                     </div>
-                                    <div class="col-md-6 col-sm-6">
-                                        <div class="thumb">
-                                            <img src="assets/img/log.png" alt="about_us">
-                                        </div> 
+                                   
+                                    <div class="aboutus-section">
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-5 col-sm-6 col-xs-12">
+                                                    <div class="aboutus">
+                                                        <h2 class="aboutus-title">Admission Requirements</h2>
+                                                        <p class="aboutus-text"><li id="list"><strong>Education:</strong> SSCE and above.</li>
+                                                                                <li id="list"><strong>Computer Literacy:</strong> Intended applicants must have basic knowledge of Windows or Mac Operating Systems.</li>
+                                                                                <li id="list"><strong>Personal Laptop Computer:</strong> Students are advised to have their personal laptop/desktop computer.</li>
+                                                                                <li id="list">Payment of a application form fee of N2,000.</li> 
+                                                                                <li id="list">Completion & submission of a registration and guarantor form (offline/Online).</li> 
+                                                        </p>
+                                                        <div>
+                                                            <img src="assets/img/acs.svg">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-1 col-sm-6 col-xs-12">
+                                                    <div class="aboutus-banner">
+                                                    <!-- <img src="assets/img/lag.png" alt=""> -->
+                                                </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-8 col-xs-12">
+                                                    <div class="feature">
+                                                        <div class="feature-box">
+                                                            <div class="clearfix">
+                                                                <div class="iconset">
+                                                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                                                </div>
+                                                                <div class="feature-content">
+                                                                    <h4 class="aboutus-title">Minimum Laptop Specification</h4>
+                                                                    <p class="aboutus-text"><li id="list"><strong>Brand:</strong> HP, Dell, Asus, Sony, Apple, Hp.</li>
+                                                                                <li id="list"><strong>Processor:</strong> Core i3.</li>
+                                                                                <li id="list"><strong>RAM:</strong> 4GB.</li>
+                                                                                <li id="list"><strong>Storage Space:</strong> 320GB.</li>
+                                                                                <h4>Graphics Card Specification:</h4>
+                                                                                <li id="list"><strong>Manufacturer:</strong> Intel, AMD, ATI/Radeon.</li>
+                                                                                <li id="list"><strong>Total Graphics Memory:</strong> 1,600 megabytes.</li>
+                                                                                <li id="list"><strong>Dedicated Video Memory:</strong> 265 Megabyte upwards.</li>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="feature-box">
+                                                            <div class="clearfix">
+                                                                <div class="iconset">
+                                                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                                                </div>
+                                                                <div class="feature-content">
+                                                                    <h4 class="aboutus-title">Recommended Laptop Specification</h4>
+                                                                    <p class="aboutus-text"><li id="list"><strong>Brand:</strong> Dell, Asus, Sony, Apple, Hp.</li>
+                                                                                <li id="list"><strong>Processor:</strong> Core i7, AMD Quadcore.</li>
+                                                                                <li id="list"><strong>RAM:</strong> 12GB, 16GB or higher.</li>
+                                                                                <li id="list"><strong>Storage Space:</strong> 500GB or higher.</li>
+                                                                                <h4>Graphics Card Specification:</h4>
+                                                                                <li id="list"><strong>Manufacturer:</strong> Arranged in order of importance <br>Nvidia <br>ATI/Radeon</li>
+                                                                                <li id="list"><strong>Minimum Total Graphics Memory:</strong> 4,000 megabytes upwards.</li>
+                                                                                <li id="list"><strong>Minimum Dedicated Video Memory:</strong> 2 Gigabytes upwards.</li>
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="col-md-12 col-sm-12">
-                                        <div class="text">
-                                            <p> Two-Year Ondinary National Diploma Information Technology and Digital Media Degree Program in computer programming employs a total immersion approach to the subject, where students develop a powerful arsenal of skills in web and mobile app software development, website and mobile app design, Graphic and UI}UX design, Cartoon and Animation design, Digital Social media marketing and Management. Students learn and work with all different programming framework starting from WORDPRESS, HTML CSS, JAVASCRIPT, PHP, LARAVAL, PYTHON etc. program with  hands-on practical instruction and actual real life project based learning. <br>
-
-                                                The Two-Year Ondinary National Diploma program requires students to commit themselves to a focused and demanding curriculum on class and practical real project based problem solving.
-                                                Students will complete the Two-Year program having build projects that solves problem using technoology in the different sector like Health,Education,Manufacturing, Finance ENTERTAINMENT  etc. The Living TV Film Academy encourages individual students to take creative risks and find their own voices as technology problem solvers. OND  students receive a certificate upon successful completion as well as a full arsenal of technology problem solving skills, an enormous amount of real life experience, a body of their own work, and a technology solution project. The network of working relationships they develop with their classmates will help carry them forward as they pursue their own careers in technology and media or  industry.
-                                            </p>
-                                        </div>    
-                                    </div>
-                                </div>
+                               </div>
                             </div>
                         </section>
                         <!--End-->

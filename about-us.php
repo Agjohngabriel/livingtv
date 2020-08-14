@@ -29,15 +29,8 @@
                                             <p>Living TV Film Academy is a subsidiary of living Television and Radio station a full digital television station transmitting live on MCL bouquet channel 20 and Radio transmission a registered in Nigeria by the Corporate Affairs Commission (CAC) with registered office at No 49 St. Michaels Road, 1st floor back suite Aba. <br>
                                                 
 
-Inspired by the idea that to learn how to make movies, one must actually make movies, that birthed the idea of Living TV Film Academy We designed a truly unique curriculum.
-
-Blending a mixture of traditional film school instruction with a new approach, the Academy emphasizes coursework based around students actually going out and shooting films as part of their coursework. Students write, produce, direct, and edit their own original films while also serving as crewmembers on their fellow classmates’ films to gain extensive on-set experience. </p>
-                                            <!-- <ul class="categries-list">
-                                                <li><a href="#">Our Aims And Objectives</a></li>
-                                                <li><a href="#">Our Vision</a></li>
-                                                <li><a href="#">Our Mission</a></li>
-                                                <li><a href="#">Our Capabilities Statement</a></li>
-                                            </ul> -->
+                                                Inspired by the idea that to learn how to make movies, one must actually make movies, that birthed the idea of Living TV Film Academy We designed a truly unique curriculum.</p>
+                    
                                         </div>    
                                     </div>
                                     <div class="col-md-6 col-sm-6">
@@ -47,7 +40,8 @@ Blending a mixture of traditional film school instruction with a new approach, t
                                     </div>
                                     <div class="col-md-12 col-sm-12">
                                         <div class="text">
-                                            <p>This commitment to learning by doing applies to all of the programs the Living TV Film Academy now offers, with students working with industry standard equipment in world-class facilities. At the Academy, students can choose from a wide range of visual and performing arts programs that includes Filmmaking, Acting for Film, 3D Animation & Visual Effects, Broadcast Journalism, Cinematography, Digital Editing, Documentary Filmmaking, Game Design, Graphic Design, Musical Theatre, Photography, Producing, and Screenwriting.
+                                            <p>Blending a mixture of traditional film school instruction with a new approach, the Academy emphasizes coursework based around students actually going out and shooting films as part of their coursework. Students write, produce, direct, and edit their own original films while also serving as crewmembers on their fellow classmates’ films to gain extensive on-set experience. 
+                                                This commitment to learning by doing applies to all of the programs the Living TV Film Academy now offers, with students working with industry standard equipment in world-class facilities. At the Academy, students can choose from a wide range of visual and performing arts programs that includes Filmmaking, Acting for Film, 3D Animation & Visual Effects, Broadcast Journalism, Cinematography, Digital Editing, Documentary Filmmaking, Game Design, Graphic Design, Musical Theatre, Photography, Producing, and Screenwriting.
                                             </p>                                           
                                         </div>    
                                     </div>
@@ -61,20 +55,20 @@ Blending a mixture of traditional film school instruction with a new approach, t
                                     <div class="col-md-4 col-sm-6 col-xs-12">
                                         <div class="aboutus">
                                             <h2 class="aboutus-title">OUR CAPABILITY STATEMENT</h2>
-                                            <p class="aboutus-text"><li> We have a well equipped digital television studio that transmits live on channel 20 MCL Cable television bouquet available for mordern practical studies.</li>
-                                                                    <li>We also have a 50ft X 40ft Chroma studio largest in Africa for studying special effects.</li>
-                                                                    <li>We have a world class rendering firm for studying animation and cartoon technology.</li>
-                                                                    <li>We have assorted professional cameras, drones etc for learning film and communication technology.</li> 
-                                                                    <li>We have developed a Film Village with Epic Houses to impact professional training to our students.</li> 
-                                                                    <li>We also have modern classroom facilities that befit the standard and quality of education we offer.</li>
-                                                                    <li>We have registered Ballywood Organization  for Film Makers with the Ministry of Labour as the only professional body for film makers to control and regulate the professional conduct and standards of performance of our grandaunts.</li>
-                                                                    <li>We have well qualified academic and Veteran Actors and Actresses teachers to lecture on the various courses.</li>
+                                            <p class="aboutus-text"><li id="list"> We have a well equipped digital television studio that transmits live on channel 20 MCL Cable television bouquet available for mordern practical studies.</li>
+                                                                    <li id="list">We also have a 50ft X 40ft Chroma studio largest in Africa for studying special effects.</li>
+                                                                    <li id="list">We have a world class rendering firm for studying animation and cartoon technology.</li>
+                                                                    <li id="list">We have assorted professional cameras, drones etc for learning film and communication technology.</li> 
+                                                                    <li id="list">We have developed a Film Village with Epic Houses to impact professional training to our students.</li> 
+                                                                    <li id="list">We also have modern classroom facilities that befit the standard and quality of education we offer.</li>
+                                                                    <li id="list">We have registered Ballywood Organization  for Film Makers with the Ministry of Labour as the only professional body for film makers to control and regulate the professional conduct and standards of performance of our grandaunts.</li>
+                                                                    <li id="list">We have well qualified academic and Veteran Actors and Actresses teachers to lecture on the various courses.</li>
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="aboutus-banner">
-                                            <img src="assets/img/log.png" alt="">
+                                            <img src="assets/img/lag.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-4 col-sm-6 col-xs-12">
@@ -133,15 +127,15 @@ Blending a mixture of traditional film school instruction with a new approach, t
                                 <!--Heading Wrap End-->
                                 <div class="container d-flex justify-content-center">
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-3 cardx">
                                     <div class="card p-2 py-3 mt-4 mb-4">
                                         <div class="text-center"> <img src="assets/img/pics1.png" width="100" class="rounded-circle">
-                                            <h3 class="mt-2">Barr. Moses Ogbonna</h3> <span class="mt-1 clearfix">Director</span> 
+                                            <h3 class="mt-2">Barr. Moses Ogbonna</h3> <span class="mt-1 clearfix">Founder</span> 
                                             <div class="social-buttons mt-5"> <button class="neo-button"><i class="fa fa-facebook fa-1x"></i> </button> <button class="neo-button"><i class="fa fa-linkedin fa-1x"></i></button><button class="neo-button"><i class="fa fa-twitter fa-1x"></i> </button></div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 cardx">
                                     <div class="card p-2 py-3 mt-4">
                                         <div class="text-center"> <img src="assets/img/pics.jpg" width="100" class="rounded-circle">
                                             <h3 class="mt-2">Prof. Chinedu Adiele</h3> <span class="mt-1 clearfix">Director</span>
@@ -149,7 +143,7 @@ Blending a mixture of traditional film school instruction with a new approach, t
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 cardx">
                                     <div class="card p-2 py-3 mt-4">
                                         <div class="text-center"> <img src="assets/img/pic2.jpg" width="100" class="rounded-circle">
                                             <h3 class="mt-2">Prof. J.U. Ogbonna</h3> <span class="mt-1 clearfix">Director</span>
@@ -157,7 +151,7 @@ Blending a mixture of traditional film school instruction with a new approach, t
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 cardx">
                                     <div class="card p-2 py-3 mt-4">
                                         <div class="text-center"> <img src="assets/img/pics3.png" width="100" class="rounded-circle">
                                             <h3 class="mt-2">Prof. Samuel Agu</h3> <span class="mt-1 clearfix">Director</span>

@@ -59,7 +59,7 @@
                                         </div>
                                     </li>
                                     <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="course.php">Course</a></li>
+                                    <!-- <li><a href="course.php">Course</a></li> -->
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>

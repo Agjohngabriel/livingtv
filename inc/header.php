@@ -12,7 +12,7 @@
     <title>Living Tv Film - Knowlegde Par Excellence</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/LOGO.jpg">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="assets/style.css">
