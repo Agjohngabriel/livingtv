@@ -48,7 +48,7 @@
     left: 0;
     width: 150%;
     height: 100%;
-    background: #37474f;
+    background: #83c331;
     z-index: -1;
     -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
     transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
@@ -123,7 +123,7 @@ input.iq_link_1:hover{
 	margin:auto;
 	width:100px;
 	height:1px;
-	background-color:#bbbbbb;	
+	background-color:#83c331;	
 }
 .iq_heading_1.text-left h4:before{
 	left: 0;
@@ -175,7 +175,7 @@ input.iq_link_1:hover{
     float: left;
     width: 100%;
     font-weight: normal;
-    color: #7d8386;
+    color: #83c331;
     font-size: 14px;
     text-align: left;
     min-height: 46px;
@@ -190,10 +190,10 @@ input.iq_link_1:hover{
 .iq-input select{
     outline: none;
 }
-.iq-input input[type="text"]::-moz-placeholder{color: #7d8386}
-.iq-input input[type="email"]::-webkit-input-placeholder{color: #7d8386}
-.iq-input input[type="text"]::-moz-placeholder{color: #7d8386}
-.iq-input input[type="email"]::-webkit-input-placeholder{color: #7d8386}
+.iq-input input[type="text"]::-moz-placeholder{color: #83c331}
+.iq-input input[type="email"]::-webkit-input-placeholder{color: #83c331}
+.iq-input input[type="text"]::-moz-placeholder{color: #83c331}
+.iq-input input[type="email"]::-webkit-input-placeholder{color: #83c331}
 /*Selectric Start*/
 .s-hidden{
     display: none;
@@ -239,7 +239,7 @@ input.iq_link_1:hover{
     z-index: 1;
     width: 45px;
     height: 100%;
-    color: #777777;
+    color: #83c331;
     cursor: pointer;
     text-align: center;
     position: absolute;

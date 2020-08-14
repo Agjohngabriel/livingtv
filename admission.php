@@ -23,12 +23,13 @@
                                     <div class="col-md-6 col-sm-6">
                                         <div class="text">
                                             <p>LIVING TV FILM ACADEMY ABA COMMENCES ADMISSIONS FOR THE AWARD OF CERTIFICATE, DIPLOMA, DEGREE FOR 2020/2021 ACADEMIC SESSION.</p>
+                                            <p><strong >Admission Requirements</strong></p>
                                             <ul class="categries-list">
-                                                <li><a href="#">Software development </a></li>
-                                                <li><a href="#">Website and Mobile App design</a></li>
-                                                <li><a href="#">Graphic and UI]UX Design</a></li>
-                                                <li><a href="#">Cartoon and Animation Design</a></li>
-                                                <li><a href="#">Digital Media Marketing and Management</a></li>
+                                                <li><a href="#">Education: SSCE and above</a></li>
+                                                <li><a href="#">Computer Literacy: Intended applicants must have basic knowledge of Windows or Mac Operating Systems.</a></li>
+                                                <li><a href="#">Personal Laptop Computer: Students are advised to have their personal laptop/desktop computer</a></li>
+                                                <li><a href="#">Completion & submission of a registration and guarantor form (offline/Online)</a></li>
+                                                <li><a href="#">Payment of a registration fee of ₦100,000.</a></li>
                                                 <li><a href="#">Social Media Marketing and Management</a></li>
                                             </ul>
                                         </div>    
@@ -64,7 +65,7 @@
                                                                         <div class="card-header p-3">
                                                                             <div class="row align-items-center">
                                                                                 <div class="col-auto">
-                                                                                    <h6 class="mb-0">Purchase Admission Form</h6>
+                                                                                    <h6 class="mb-1">Admission Form</h6>
                                                                                 </div>
                                                                                 <div class="col text-right"><button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span class="cross" aria-hidden="true">&times;</span> </button></div>
                                                                             </div>
@@ -105,7 +106,7 @@
                                                                             
                                                                                 <div class="row mt-4 mb-3">
                                                                                     <div class="col">
-                                                                                        <button type="submit" id="Submit" class="btn btn-primary btn-block" data-dismiss="modal"><b>Apply Now</b></button>
+                                                                                        <button type="submit" id="Submit" class="btn btn-primary btn-block"><b>Apply Now</b></button>
                                                                                     </div>
                                                                                 </div>
                                                                             </form>
@@ -128,7 +129,9 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                                <h3>Get The Best knowledge From Us</h3>
+                            <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy."]'>
+                                 <span class="wrap"></span>  
+                                </h3>
                                 <a href="#" data-toggle="modal" data-target="#my-modal" class="btn academy-btn">Enroll Now</a>
                             </div>
                         </div>

@@ -96,20 +96,20 @@
 
             <!-- ##### CTA Area Start ##### -->
             <div class="call-to-action-area">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                                <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy", ]'>
-                                <span class="wrap"></span>  
-                                </h3>
-                                <a href="admission.php" class="btn academy-btn" >Enroll Now</a>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
+                                            <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy."]'>
+                                            <span class="wrap"></span>  
+                                            </h3>
+                                            <a href="admission.php" class="btn academy-btn" >Enroll Now</a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ##### CTA Area End ##### -->
+                        <!-- ##### CTA Area End ##### -->
 
 <?php 
     include 'inc/footer.php';    
