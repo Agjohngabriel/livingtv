@@ -13,8 +13,11 @@
 
     <!-- ##### Google Maps ##### -->
     <div class="map-area wow fadeInUp" data-wow-delay="300ms">
-        <div id="googleMap"></div>
+        <div id="googleMap">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3973.960043666925!2d7.404976814224547!3d5.110142596291323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104298cf92924009%3A0x31b2be7bade5e165!2sMuseum%20of%20Colonial%20History!5e0!3m2!1sen!2sng!4v1598111786600!5m2!1sen!2sng" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
     </div>
+
 
     <!-- ##### Contact Area Start ##### -->
     <section class="contact-area">
@@ -58,7 +61,7 @@ Thank you for your interest in our Film Academy. Please do not hesitate to conta
                                         <div class="contact-icon mr-15">
                                             <i class="icon-telephone-1"></i>
                                         </div>
-                                       <p>Main: 0803-376-1664 <br>Office: 0803-376-1664</p>
+                                       <p>Main: 08053673900 <br>Office: 0706-273-4773</p>
                                     </div>
 
                                     <!-- Single Contact Info -->
@@ -66,7 +69,7 @@ Thank you for your interest in our Film Academy. Please do not hesitate to conta
                                         <div class="contact-icon mr-15">
                                             <i class="icon-contract"></i>
                                         </div>
-                                        <p>info@livingtvacademy.com</p>
+                                        <p>info@livingtvfilmacademy.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -88,6 +91,10 @@ Thank you for your interest in our Film Academy. Please do not hesitate to conta
         </div>
     </section>
     <!-- ##### Contact Area End ##### -->
+
+    <div class="contact-bg">
+            <img src="assets/img/For-People.png">
+            </div>
 
 <?php 
     include 'inc/footer.php';   

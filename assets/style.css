@@ -1078,22 +1078,35 @@ img {
 
 .map-area {
   position: relative;
-  z-index: 2; }
-  .map-area #googleMap {
+  z-index: 3; }
+.map-area #googleMap iframe{
     width: 100%;
-    height: 650px; }
+    height: 650px;
+    max-width: 100%;
+    margin: 0;
+    padding: 70px 0px 10px 0px;
+    line-height: 1;
+    border: none;
+  }
+  iframe{
+    top: 300px;
+  }
+  
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .map-area #googleMap {
-        height: 500px; } }
+      .map-area #googleMap iframe {
+        height: 300px; } }
 
+.contact-bg{
+  padding-left: 15%;
+}
 /* Contact Area CSS */
 .contact-content {
   background-color: #eef3f6;
   padding: 100px 50px;
   position: relative;
   z-index: 15;
-  top: -200px;
-  margin-bottom: -100px; }
+  top: 0px;
+  margin-bottom: 10px; }
   @media only screen and (max-width: 767px) {
     .contact-content {
       padding: 50px 30px; } }
@@ -1246,7 +1259,7 @@ img {
     ABOUT US Section
 =========================================
  */
-
+ 
 .aboutus-section {
   padding: 90px 0;
 }
@@ -1451,6 +1464,9 @@ a:hover, a:active {
   certificates
 ===================
  */
+ .rounded-circle {
+  border-radius:15% !important;
+}
  .how-section1{
   margin-top:-5%;
   padding: 10%;
@@ -1472,11 +1488,10 @@ a:hover, a:active {
 .how-img 
 {
   text-align: center;
-  border-radius: 75px 35px;
 }
 .how-img img{
-  width: 80%;
-  margin-top: 30px;
+  width: 100%;
+  margin-top: 40px;
 }
 /* ========================
   Payment form

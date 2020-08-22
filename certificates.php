@@ -19,7 +19,7 @@
         <div class="how-section1">
                     <div class="row">
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="assets/img/bg-img/gallery1.jpg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>FILM MAKING</h4>
@@ -33,18 +33,18 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4>PRODUCING</h4>
-                            <p class="subheading text-muted">No single position has more to do with the creative, technical, and financial aspects of making a film or TV show than the producer. They hire and they fire and work hand in hand with film studios and TV networks. They develop the material, hire the writers, and find the buyers and financiers. They oversee script development, casting, hiring of the crew, locations, distribution, film festivals, and so much more. Ultimately, the producer is the most involved with a project through every phase (from pre-production to production and post-production).
+                            <p class="subheading text-muted">No single position has more to do with the creative, technical, and financial aspects of making a film or TV show than the producer. They hire and they fire and work hand in hand with film studios and TV networks. They develop the material, hire the writers, and find the buyers and financiers. They oversee script development, casting, hiring of the crew, locations, distribution, film festivals, and so much more. 
                             In Living TV Film Academy's producing programs, you learn strong project management skills without requiring a business school background. In addition, students complete a professional-level, comprehensive production book for a feature length film that will allow you to approach investors and other industry professionals with your exciting post-LTFA project the day you graduate. 
                             </p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/cHgKnU/Work_Section2_freelance_img2.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="assets/img/prod.png" class="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                             <img src="https://image.ibb.co/ctSLu9/Work_Section2_freelance_img3.png" class="rounded-circle img-fluid" alt=""/>
+                             <img src="assets/img/bg-img/bg-1.jpg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>CINEMATOGRAPHY</h4>
@@ -63,12 +63,12 @@
                                  They also learn various theoretical concepts of editing and how to practically apply those theories.</p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="assets/img/edit.jpeg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6 how-img">
-                             <img src="https://image.ibb.co/ctSLu9/Work_Section2_freelance_img3.png" class="rounded-circle img-fluid" alt=""/>
+                             <img src="assets/img/design.png" class="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>GRAPHICS DESIGN</h4>
@@ -83,12 +83,12 @@
                                 Students enrolling in the musical theatre school work directly with instructors who have appeared in numerous Broadway and touring productions, and television shows. They receive real world training that prepares them to achieve success in the industry, creating an educational experience few other musical theatre colleges can offer.</p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="assets/img/music.jpg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6 how-img">
-                             <img src="https://image.ibb.co/ctSLu9/Work_Section2_freelance_img3.png" class="rounded-circle img-fluid" alt=""/>
+                             <img src="assets/img/ani.jpg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>3D ANIMATION & VISUAL EFFECTS</h4>
@@ -102,13 +102,14 @@
                             Students are trained in the fundamental principles, techniques, and craft of contemporary journalism through a combination of lecture, demonstration, in-class hands-on production, and project-based work.</p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="assets/img/banner3.jpg" class="rounded-circle img-fluid" alt=""/>
                         </div>
                     </div>
                 </div> 
-  
+               
     </section>
             <!-- ##### Area End ##### -->
+            
 
                 <!-- ##### CTA Area Start ##### -->
                 <div class="call-to-action-area">

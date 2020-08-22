@@ -4,7 +4,7 @@
 ?>
 
       <!-- ##### Breadcumb Area Start ##### -->
-	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb.jpg);">
+	  <div class="breadcumb-area bg-img" style="background-image: url(assets/img/bg-img/breadcumb3.jpg);">
         <div class="bradcumbContent">
             <h2>Diploma FINE AND THEATRE ART </h2>
         </div>
@@ -36,7 +36,7 @@
                                     </div>
                                     <div class="col-md-6 col-sm-6">
                                         <div class="thumb">
-                                            <img src="assets/img/log.png" alt="about_us">
+                                            <img src="assets/img/fineart.png" alt="about_us">
                                         </div> 
                                     </div>
                                     <div class="col-md-12 col-sm-12">

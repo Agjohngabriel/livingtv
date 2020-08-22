@@ -200,9 +200,10 @@
                 <div class="col-12 col-md-6">
                     <div class="single-testimonial-area mb-100 d-flex wow fadeInUp" data-wow-delay="400ms">
                         <div class="testimonial-content">
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe width="763" height="429" src="https://www.youtube.com/embed/d8Ra4T1iGNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            </div>
+                            <video class="embed-responsive embed-responsive-16by9" width="763" height="429" controls>
+                                <source src="https://www.youtube.com/embed/d8Ra4T1iGNw" type="video/mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                     </div>
                 </div>
@@ -210,7 +211,7 @@
                 <div class="col-12 col-md-6">
                     <div class="single-testimonial-area mb-100 d-flex wow fadeInUp" data-wow-delay="500ms">
                         <div class="testimonial-content">
-                            <p>Steven Spielberg, Martin Scorsese, Bruce Springsteen, Al Pacino, Robert Downey Jr., Jamie Foxx, and Jodie Foster are among the many figures in the film industry who have sent their family members to study at the New York Film Academy. We are honored to be the film and acting school of choice of these other luminaries including Kevin Kline, Pierce Brosnan, Susan Sarandon and Tim Robbins, Bono (U2), directors Stephen Frears, Peter Bogdanovich, Roger Donaldson and James L. Brooks.New York Film Academy is honored to have many of the industry’s best impart their knowledge to our film school students as guest speakers, including Kim Cattrall, Seth Rogen, Kevin James, Glenn Close, Bryan Cranston, Rachel Maddow, Jamie Lee Curtis, J. K. Simmons, Mira Nair, Russell Hornsby, William Wegman, and many more.The New York Film Academy was founded on the philosophy that "learning by doing" combined with best industry practices is more valuable than years of theoretical study for filmmakers and actors. This educational model allows students to achieve more in less time than at all other film or acting schools in the world.</p>
+                            <p>The living TV Film Academy was founded on the philosophy that "learning by doing" combined with best industry practices is more valuable than years of theoretical study for filmmakers and actors. This educational model allows students to achieve more in less time than at all other film or acting schools in the country or studying theater art in conventional Nigerian University.</p>
                         </div>
                     </div>
                 </div>
@@ -227,7 +228,7 @@
                 <div class="col-12">
                     <div class="section-heading text-center mx-auto wow fadeInUp" data-wow-delay="300ms">
                         <span>The Best</span>
-                        <h3>Top Popular Courses</h3>
+                        <h3>Top Popular Programs</h3>
                     </div>
                 </div>
             </div>
@@ -253,7 +254,7 @@
                                 <li style="list-style-type: circle;">Presenting</li>
                                 <li style="list-style-type: circle;">News Casting</li>
                             </ul>
-                            <a href="#" class="btn academy-btn btn-sm">Learn More</a>
+                            <a href="Degree-MC.php" class="btn academy-btn btn-sm">Learn More</a>
                         </div>
                         <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-2.jpg);"></div>
                     </div>
@@ -275,13 +276,14 @@
                             <ul>
                                 <li style="list-style-type: circle;">Audio Programming</li>
                                 <li style="list-style-type: circle;">Digital Animation</li>
-                                <li style="list-style-type: circle;">Special Effects</li>
-                                <li style="list-style-type: circle;">Media Management</li>
-                                <li style="list-style-type: circle;">Script Writing</li>
+                                <li style="list-style-type: circle;">Software development</li>
+                                <li style="list-style-type: circle;">UI/UX Design</li>
+                                <li style="list-style-type: circle;">Social Media Marketing</li>
                             </ul>
-                            <a href="#" class="btn academy-btn btn-sm">Learn More</a>
+ 
+                            <a href="Degree-ITD.php" class="btn academy-btn btn-sm">Learn More</a>
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-3.jpg);"></div>
+                        <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-4.jpg);"></div>
                     </div>
                 </div>
                 
@@ -305,7 +307,7 @@
                                 <li style="list-style-type: circle;">Modeling / Make-up</li>
                                 <li style="list-style-type: circle;">Screen Writing Arts</li>
                             </ul>
-                            <a href="#" class="btn academy-btn btn-sm">Learn More</a>
+                            <a href="Diploma-FTA.php" class="btn academy-btn btn-sm">Learn More</a>
                         </div>
                         <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-5.jpg);"></div>
                     </div>
@@ -330,9 +332,9 @@
                                 <li style="list-style-type: circle;">Photo Journalism</li>
                                 <li style="list-style-type: circle;">Reporting</li>
                             </ul>
-                            <a href="#" class="btn academy-btn btn-sm">Learn More</a>
+                            <a href="Diploma-MC.php" class="btn academy-btn btn-sm">Learn More</a>
                         </div>
-                        <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-4.jpg);"></div>
+                        <div class="popular-course-thumb bg-img" style="background-image: url(assets/img/bg-img/pc-3.jpg);"></div>
                     </div>
                 </div>
             </div>
@@ -340,22 +342,23 @@
     </div>
     <!-- ##### Top Popular Courses Area End ##### -->
 
-            <!-- ##### CTA Area Start ##### -->
-            <div class="call-to-action-area">
+                <!-- ##### CTA Area Start ##### -->
+                <div class="call-to-action-area">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <div class="cta-content d-flex align-items-center justify-content-between flex-wrap">
-                                <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy", ]'>
-                                <span class="wrap"></span>  
+                            <h3 class="typewrite" data-period="2000" data-type='[ "Get The Best knowledge From Us.", "Enroll at our Academy."]'>
+                                 <span class="wrap"></span>  
                                 </h3>
-                                <a href="admission.php" class="btn academy-btn" >Enroll Now</a>
+                                <a href="admission.php" class="btn academy-btn">Enroll Now</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- ##### CTA Area End ##### -->
+ 
 
 <?php 
     include 'inc/footer.php';    

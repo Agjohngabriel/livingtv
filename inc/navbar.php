@@ -45,6 +45,7 @@
                                                 <li><a href="certificates.php">Graphics Design</a></li>
                                                 <li><a href="certificates.php">Musical Theatre</a></li>
                                                 <li><a href="certificates.php">3D Animation & Visual Effects</a></li>
+                                                <li><a href="certificates.php">BROADCASTING JOURNALISM</a></li>
                                             </ul>
                                             <ul class="single-mega cn-col-4">
                                                 <li><h5>BoothCamps & Workshop</h5></li>

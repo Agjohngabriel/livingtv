@@ -169,9 +169,11 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="about-slides owl-carousel mt-100 wow fadeInUp" data-wow-delay="600ms">
-                                <img src="assets/img/bg-img/bg-3.jpg" alt="">
-                                <img src="assets/img/bg-img/bg-22.jpg" alt="">
-                                <img src="assets/img/bg-img/bg-11.jpg" alt="">
+                                <img src="assets/img/bg-img/slide1.png" alt="">
+                                <img src="assets/img/bg-img/slide2.png" alt="">
+                                <img src="assets/img/bg-img/slide3.png" alt="">
+                                <img src="assets/img/bg-img/slide4.png" alt="">
+                                <img src="assets/img/bg-img/slide5.png" alt="">
                             </div>
                         </div>
                     </div>

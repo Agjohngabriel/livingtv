@@ -45,7 +45,7 @@
                                                 </div>
                                                 <div class="col-md-1 col-sm-6 col-xs-12">
                                                     <div class="aboutus-banner">
-                                                    <!-- <img src="assets/img/lag.png" alt=""> -->
+                                                    <!-- <img src="assets/img/I-m-a-Partner.png" alt=""> -->
                                                 </div>
                                                 </div>
                                                 <div class="col-md-6 col-sm-8 col-xs-12">

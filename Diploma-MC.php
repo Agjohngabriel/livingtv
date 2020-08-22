@@ -36,7 +36,7 @@
                                     </div>
                                     <div class="col-md-6 col-sm-6">
                                         <div class="thumb">
-                                            <img src="assets/img/log.png" alt="about_us">
+                                            <img src="assets/img/Mass-Communication-.png" alt="about_us">
                                         </div> 
                                     </div>
                                     <div class="col-md-12 col-sm-12">

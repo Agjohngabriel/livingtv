@@ -31,7 +31,7 @@
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about-us.php">About Us</a></li>
                                     <li><a href="contact.php">contact Us</a></li>
-                                    <li><a href="apply.php">Apply Now</a></li>
+                                    <li><a href="admission.php">Apply Now</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -64,11 +64,11 @@
                             </div>
                             <div class="single-contact d-flex mb-30">
                                 <i class="icon-telephone-1"></i>
-                                <p>Main: 0803-376-1664 <br>Office: 0803-376-1664</p>
+                                <p>Main: 08053673900 <br>Office: 07062734773</p>
                             </div>
                             <div class="single-contact d-flex">
                                 <i class="icon-contract"></i>
-                                <p>info@livingtvacademy.com</p>
+                                <p>info@livingtvfilmacademy.com</p>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="col-12">
                         <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i></p>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</p>
                     </div>
                 </div>
             </div>
